@@ -5,7 +5,7 @@ I'm front-end developer. I have been working since 2020 years on freelance. <img
 ---------------------------------------------------------------------------
 
 * 🌍  I'm based in Russia, Krasniy Luch
-* ✉️  You can contact me at [oksanalex98@gmail.com](mailto:oksanalex98@gmail.com), <a href="https://api.whatsapp.com/send/?phone=79591441679"><img src="https://img.shields.io/badge/whatsapp-green" /></a>, <a href="https://t.me/oksana_webdev"><img alt="Static Badge" src="https://img.shields.io/badge/telegramm-blue"></a>
+* ✉️  You can contact me at  <a href="oksanalex98@gmail.com"><img src="https://img.shields.io/badge/whatsapp-green" /></a>, <a href="https://api.whatsapp.com/send/?phone=79591441679"><img src="https://img.shields.io/badge/whatsapp-green" /></a>, <a href="https://t.me/oksana_webdev"><img alt="Static Badge" src="https://img.shields.io/badge/telegramm-blue"></a>
 * 🧠  I'm learning on platform Strada and online-school STUDYWORK (english language)
 
 ### Skills
