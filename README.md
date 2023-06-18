@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oksana Aleksandrova
 ===========================================================================================================================================
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5005&pause=1000&color=051015&multiline=true&width=1000&height=100&lines=I'm+front-end+developer.+I+have+been+working+since+2020+year+on+freelance." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5005&pause=1000&color=051015&multiline=true&width=1000&height=100&lines=I'm+front-end+developer.+I+have+been+working+since+2020+year+on+freelance." alt="Typing SVG" /></a>  
+<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG04enluamFqOWt4ank5Nm1xaHVscXR3b2J3NTJ1OXVhejhseDI4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150px" height="150px"/></div>
 ---------------------------------------------------------------------------
 
 * 🌍  I'm based in Russia, Krasniy Luch
