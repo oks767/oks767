@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oksana Aleksandrova
 ===========================================================================================================================================
 
-I'm front-end developer. I have been working since 2020 years on freelance. <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
+I'm front-end developer. I have been working since 2020 years on freelance. <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="80px" height="80px"/>
 ---------------------------------------------------------------------------
 
 * 🌍  I'm based in Russia, Krasniy Luch
