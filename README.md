@@ -30,10 +30,3 @@
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/oks767" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/oksana_easy_code#3729" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/оксана-александрова-642983245" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/22090698" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a><a href="https://t.me/oksana_world_it"><img src="https://raw.githubusercontent.com/Patrolavia/telegram-badge/master/follow.svg" /></a></p>
-
-
-### Statistics
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oks767&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oks767&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
